@@ -1,0 +1,49 @@
+body{
+    background-color:#f2ebe3;
+    
+}
+div.asset{
+    width: 50%;
+    transform: translateX(60%);
+    display:block;
+    margin:10px;
+    
+    
+    
+}
+div.asset img{
+    width: 30%;
+    height: 40%;
+    float:left;
+}
+
+div.desc{
+    margin: 225px;
+    padding: 40px;
+    background-color: #fff;
+    width: 30%;
+    height: 10%;
+}
+div.desc p{
+    font-size: 14px;
+    color: #6c7289;
+    
+    
+}
+div.desc h4{
+    color: #328067;
+}
+div.desc h3{
+    color: #1c232b
+}
+.button{
+    background-color: green;
+    color: #fff;
+
+}
+
+    /*Responsive  1440px */
+@media only screen and (max-width: 1440px) {}
+
+/* Responsive 375px */
+@media only screen and (max-width: 375px){}
